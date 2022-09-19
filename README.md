@@ -1,0 +1,1 @@
+# custom-goat-horns-resourcepack
