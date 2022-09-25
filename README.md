@@ -7,4 +7,5 @@ Enjoy!
 
 ## Screenshots
 
+From left to right: Ponder, Sing, Seek, Feel, Admire, Call, Yearn, Dream
 ![](screenshots/goat-horns.png)
